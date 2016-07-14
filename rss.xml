@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Marketing17.com]]></title>
+        <description><![CDATA[Marketing17.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Jul 2016 04:46:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cómo crear una Tienda Online en WordPress - La Guía 2016]]></title>
+            <description><![CDATA[<article><h1>Cómo crear una Tienda Online en WordPress - La Guía 2016</h1><p>Crear una Tienda Online gratis con WordPress es sencillo, pero requiere conocer una serie de pasos básicos que te voy a explicar en este tutorial paso a paso. Cada vez más hoy en día los emprendedores deciden montar su propia Tienda Online para vender productos por internet.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/abf68b2b60360fc1e3b6c571af266920/croprotate.jpg?cropheight=555&cropwidth=1024&degrees=0&input=http%3A%2F%2Fernestogbustamante.com%2Fwp-content%2Fuploads%2F2015%2F12%2FCaptura-de-pantalla-2015-12-29-a-las-11.01.531-1024x580.jpg&x=0&y=13"></article>]]></description>
+            <link>http://ernestogbustamante.com/crear-tienda-online-wordpress/</link>
+            <guid isPermaLink="false">48f8861a-fda3-48fd-b23d-2a275519e017</guid>
+            <pubDate>Thu, 14 Jul 2016 04:46:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
