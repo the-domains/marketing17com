@@ -18,11 +18,11 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=UbKH9ICIdC4'
 title: 'Cómo usar el Copywriting en blog y web, con Maider Tomasena'
-datePublished: '2016-07-14T05:04:55.088Z'
-dateModified: '2016-07-14T05:04:50.984Z'
-starred: false
+datePublished: '2016-07-14T05:06:16.718Z'
+dateModified: '2016-07-14T05:06:16.265Z'
 sourcePath: >-
   _posts/2016-07-14-como-usar-el-copywriting-en-blog-y-web-con-maider-tomasena.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
