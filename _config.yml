@@ -1,4 +1,3 @@
-layout_spectrum: 0.6500385745894164
 typography_spectrum: 0.008432407164946198
 color:
   brandStrength: 0.04285950888879597
@@ -11,4 +10,9 @@ color:
     - '#F7E967'
     - '#A9CF54'
     - '#588F27'
+layout_spectrum: 0.6500385745894164
+author:
+  name: Bruno VD
+  email: bruno@aulacm.com
 name: Marketing17.com
+title: Selección de contenidos
