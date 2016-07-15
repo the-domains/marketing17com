@@ -17,10 +17,10 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=-NG0wfDs3xQ'
 title: ¿Para qué sirve realmente el Marketing Online? - Isra García
-datePublished: '2016-07-15T10:58:49.326Z'
-dateModified: '2016-07-15T10:58:48.786Z'
+datePublished: '2016-07-15T20:24:33.435Z'
+dateModified: '2016-07-15T20:24:31.131Z'
 sourcePath: _posts/2016-07-14-para-que-sirve-realmente-el-marketing-online-isra-garcia.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
