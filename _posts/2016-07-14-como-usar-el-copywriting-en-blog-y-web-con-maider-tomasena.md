@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-15T10:58:51.872Z'
+datePublished: '2016-07-15T11:22:56.960Z'
 sourcePath: >-
   _posts/2016-07-14-como-usar-el-copywriting-en-blog-y-web-con-maider-tomasena.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=UbKH9ICIdC4'
@@ -9,7 +9,7 @@ author:
   - name: Marketin.TV
     url: 'https://www.youtube.com/user/marketintv'
     avatar: {}
-dateModified: '2016-07-15T10:58:51.380Z'
+dateModified: '2016-07-15T11:22:56.540Z'
 title: 'Cómo usar el Copywriting en blog y web, con Maider Tomasena'
 app_links: []
 publisher:
@@ -21,7 +21,7 @@ description: >-
   Vídeo-entrevista con Maider Tomasena sobre el Copywriting y cómo escribir
   textos persuasivos en tu página web o blog. Estupendos consejos para cualquier
   copywriter, community manager, gestor de contenidos, bloguero o webmaster.
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
